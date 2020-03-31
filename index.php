@@ -1,6 +1,11 @@
+<!DOCTYPE html>
 <html>
+<head>
+	<title>expliacndo o github</title>
+	<link rel="stylesheet" type="text/css" href="css/modelo.css">
+</head>
 <body>
-  <div> 
+	<div> 
 	<h3> O que é o GitHub?</h3> 
 	<P>E um site que permite que controlar prjetos de versonamentos de sua equipe e os seus propios projetos</ p >
 	<h2> Como criar um repositório</h2>
