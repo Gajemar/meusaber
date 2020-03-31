@@ -1,0 +1,13 @@
+h3{
+	color:tomato;
+	text-decoration: underline;
+	font-weight: bold;
+}
+p{
+	color:lightgrey;
+	 text-decoration: underline;
+	 text-indent: 50px;
+}
+body{
+	background-color: #f8f9fa;
+}
