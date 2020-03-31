@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
+	<link rel="stylesheet" type="text/css" href="css/modelo.css">
 <head>
 	<title>expliacndo o github</title>
-	<link rel="stylesheet" type="text/css" href="css/modelo.css">
 </head>
 <body>
 	<div> 
 	<h3> O que é o GitHub?</h3> 
-	<P>E um site que permite que controlar prjetos de versonamentos de sua equipe e os seus propios projetos</ p >
+	<P>E um site que permite que controlar prjetos de versonamentos de sua equipe e os seus propios projetos</p>
 	<h2> Como criar um repositório</h2>
 	<p>Para criar um repositório no site é preciso clicar no simbolo de "+" que esta no canto superior direito e ir no opção de "New repository" logo apos você ira por o titulo do repositorio e se quiser descrever sobre o repositorio  e do que ele é,  depois escolha entre o seu repositório entre Público ou Privado e por fim vá em criar repositório e estará finalizado</p>
 	<h3> Público</h3>
